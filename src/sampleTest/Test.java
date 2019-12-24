@@ -8,9 +8,9 @@ public class Test {
 
 		// end
 
-		System.out.println("商品の価格：" + price);
-		System.out.println("消費税：" + consumptionTax);
-		System.out.println("合計金額：" + totalPrice);
+		System.out.println("税抜価格：" + price +"円");
+		System.out.println("消費税：" + consumptionTax + "円");
+		System.out.println("税込価格：" + totalPrice + "円");
 
 	}
 
