@@ -1,4 +1,4 @@
-package sampleTest;
+package codeGolf;
 
 public class CodeGolf {
 
