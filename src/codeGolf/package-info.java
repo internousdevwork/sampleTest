@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author インターノウス
- *
- */
-package codeGolf;
